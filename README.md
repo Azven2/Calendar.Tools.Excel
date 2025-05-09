@@ -1,7 +1,7 @@
 # Calendar.Tools.Excel
 A number of Excel tools for planning and meetings:
 
-- YearCalendar: A year planner on a page (A3 and A4 version);
+- YearCalendar: A year planner on a page (A3 and A4 versions);
 
 - MonthCalendar: A month on a page planner (A4 portrait, A3 portrait and A3 landscape versions);
 
@@ -9,7 +9,9 @@ A number of Excel tools for planning and meetings:
 
 - MeetingNotes: A largely blank page with a header and a one month calendar.
 
+- CheckList: A worksheet with a macro for creating simple checklists. (This is a beta version. Updates will be coming soon).
+
 [Each workbook contains a ReadMe worksheet]
 
 
-_2024 - Steven Digby (Azven)_
+_2025 - Steven Digby (Azven)_
